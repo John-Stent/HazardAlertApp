@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">HazardAlertApp</string>
+    <string name="default_notification_channel_id">CHANNEL_ID</string>
+
+    <string name="fkey">AAAADaClP-o:APA91bH5veLnk21VArKq1VpPTk57v2MA1g6vTWBuiJ-7PSeYknGpoZBKUqqiwV8DLBlP7-6nKPvOE8WdqhQM0jYZRlb4gvk29zrVI11KMCFwUDWWwlivlSPVV0XInzS8Ege8kIidI3BM</string>
+</resources>

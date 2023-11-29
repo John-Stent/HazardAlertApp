@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    >
+
+
+   <LinearLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:layout_centerInParent="true"
+      android:orientation="vertical">
+      <ImageView
+          android:layout_width="@dimen/_100sdp"
+          android:layout_height="wrap_content"
+          android:src="@drawable/user"
+          android:adjustViewBounds="true"
+          android:tint="@color/colorPrimary"
+         android:layout_marginBottom="@dimen/_20sdp"
+          android:layout_centerHorizontal="true"
+          android:scaleType="fitCenter"
+          android:layout_centerVertical="true"
+          />
+
+      <TextView
+          android:id="@+id/balance"
+          android:layout_width="wrap_content"
+          android:layout_height="wrap_content"
+          android:layout_alignParentStart="true"
+          android:layout_alignParentTop="true"
+          android:textAlignment="viewStart"
+          android:paddingStart="@dimen/_10sdp"
+          android:paddingEnd="@dimen/_5sdp"
+          android:paddingTop="@dimen/_5sdp"
+          android:paddingBottom="@dimen/_5sdp"
+          android:layout_alignParentBottom="true"
+          android:text="Admin App"
+          android:layout_gravity="center"
+          android:textStyle="bold"
+          android:textColor="#FF9800"
+          android:textSize="@dimen/_17sdp" />
+
+   </LinearLayout>
+
+
+
+
+
+</RelativeLayout>

@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "58529759210",
+    "project_id": "hazard-app-alert",
+    "storage_bucket": "hazard-app-alert.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58529759210:android:8a4148a9b66ad6eb5abc93",
+        "android_client_info": {
+          "package_name": "com.hazardalert.app.az"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "58529759210-skau6lpbiknuq9rc9n5jl44rnvb1db4t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFmmyveEr4JPjtVYjuKg7mDLhqcakv_xY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "58529759210-skau6lpbiknuq9rc9n5jl44rnvb1db4t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
